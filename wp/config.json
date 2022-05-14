@@ -2,8 +2,8 @@
     "main": {
         "update": {
             "enable": true,
-            "force": true,
-            "htmlDetail": "<b>Update Test</b><br/>version : new <br/><br/>1 : new work test <br/>2 : new work test <br/>3 : new work test <br/>",
+            "force": false,
+            "htmlDetail": "<b>Update Test</b><br/>version : new <br/><br/>1 : new work test <br/>2 : new work test <br/>3 : new work test",
             "intervalShowDays": 1
         }
     }
