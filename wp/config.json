@@ -1,1 +1,10 @@
-{}
+{
+    "main": {
+        "update": {
+            "enable": true,
+            "force": false,
+            "htmlDetail": "<b>Update Test</b><br/>version : new <br/><br/>1 : new work test <br/>2 : new work test <br/>3 : new work test <br/>",
+            "intervalShowDays": 1
+        }
+    }
+}
